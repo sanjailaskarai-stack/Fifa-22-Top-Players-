@@ -1,0 +1,101 @@
+PLAYER,RANK,TEAM,NATIONALITY,POSITION,OVERALL,PACE,SHOOTING,PASSING,DRIBBLING,DEFENCE,PHYSICAL
+Lionel Messi,1,PSG,Argentina,Right Winger,93,85,92,91,95,34,65
+Robert Lewandowski,2,Bayern Munich,Poland,Striker,92,78,92,79,86,44,82
+Cristiano Ronaldo,3,Manchester United,Portugal,Striker,91,87,93,82,88,34,75
+Kevin De Bryune,4,Manchester City,Belgium,Central Midfielder,91,76,86,93,88,64,78
+Kylian Mbappe,5,PSG,France,Striker,91,97,88,80,92,36,77
+Neymar,6,PSG,Brazil,Left Winger,91,91,83,86,94,37,63
+Jan Oblak,7,Altetico Madrid,Slovenia,Goal Keeper,91,87,92,78,90,50,90
+Harry Kane,8,Tottenham Hotspurs,England,Striker,90,70,91,83,83,47,83
+N'golo Kante,9,Chelsea,France,Central Midfielder,90,78,66,75,82,87,83
+Manuel Neuer,10,Bayern Munich,Germany,Goal Keeper,90,88,88,91,88,54,89
+Marc Andre Ter Stegen,11,FC Barcelona,Germany,Goal Keeper,90,88,85,88,90,43,88
+Mohamed Salah,12,Liverpool,Egypt,Right Winger,89,90,87,81,90,45,75
+Gianluici Donnaruma,13,AC Milan,Italy,Goal Keeper,89,91,83,79,90,52,85
+Karim Benzema,14,Real Madrid,France,Striker,89,76,86,81,87,39,77
+Virgil Vandijk,15,Liverpool,Netherlands,Center Back,89,78,60,71,72,91,84
+Joshua Kimmich,16,Bayern Munich,Germany,Central Defensive Midfielder,89,70,73,86,84,83,79
+Heung Min Son,17,Tottenham Hotspurs,South Korea,Left Midfielder,89,88,87,82,86,43,69
+Alisson,18,Liverpool,Brazil,Goal Keeper,89,86,86,84,89,52,90
+Thibaut Courtios,19,Real Madrid,Belgium,Goal Keeper,89,84,89,74,88,46,86
+Casemiro,20,Real Madrid,Brazil,Central Defensive Midfielder,89,65,73,76,73,86,90
+Ederson,21,Manchester City,Brazil,Goal Keeper,89,87,82,93,88,64,88
+Sadio Mane,22,Liverpool,Senegal,Left Winger,89,91,83,80,89,44,77
+Luis Suarez,23,Athletico Madrid,Uruguay,Striker,88,72,90,82,84,47,83
+Sergio Ramos,24,PSG,Spain,Center Back,88,70,70,76,74,88,84
+Bruno Fernandes,25,Manchester United,Portugal,Central Attacking Midfielder,88,75,86,89,84,70,77
+Romelu Lukaku,26,Chelsea,Belgium,Striker,88,84,87,74,78,39,83
+Raheem Sterling,27,Manchester City,England,Left Winger,88,91,82,79,87,45,66
+Toni Kroos,28,Real Madrid,Germany,Central Midfielder,88,53,81,91,81,71,68
+Erling Haaland,29,Borussia Dortmund,Norway,Striker,88,89,91,65,80,45,88
+Keylon Navas,30,PSG,Costa Rica,Goal Keeper,88,89,84,75,89,54,87
+Marquinhos,31,PSG,Brazil,Center Back,87,81,53,75,74,89,81
+Ruben Dias,32,Manchester City,Portugal,Center Back,87,61,38,65,68,88,88
+Leon Goretza,33,Bayern Munich,Germany,Central Midfielder,87,81,82,82,84,81,86
+Andrew Robertsan,34,Liverpool,Scotland,Left Back,87,84,61,80,81,82,76
+Thomas Muller,35,Bayern Munich,Germany,Central Attacking Midfielder,87,67,84,83,80,56,71
+Sergio Aguero,36,FC Barcelona,Argentina,Striker,87,71,89,75,87,33,69
+Paulo Dybala,37,Juventus,Argentina,Center Forward,87,84,86,86,90,40,60
+Luka Modric,38,Real Madrid,Croatia,Central Midfielder,87,73,76,89,88,72,66
+Jadon Sancho,39,Manchester United,England,Right Midfielder,87,81,76,82,91,36,65
+Frenkie De Long,40,FC Barcelona,Netherlands,Central Midfielder,87,81,69,85,88,77,78
+Angel Di Maria,41,PSG,Argentina,Right Winger,87,83,81,86,87,48,69
+Trent Alexander Arnold,42,Liverpool,England,Right Back,87,79,68,88,80,80,72
+Paul Pogba,43,Manchester United,France,Central Midfielder,87,71,81,86,86,65,83
+Marco Verrati,44,PSG,Italy,Central Midfielder,87,64,61,87,91,79,67
+Wojciech Szczesny,45,Juventus,Poland,Goal Keeper,87,86,82,73,88,49,87
+Ciro  Immobile,46,SS Napoli,Italy,Striker,87,86,87,67,81,39,77
+Hugo Lloris,47,Tottenham Hotspurs,France,Goal Keeper,87,88,83,65,90,61,84
+Lorenze Insigne,48,SS Napoli,Italy,Left Winger,86,87,78,85,90,36,45
+Sergio Busquests,49,FC Barcelona,Spain,Central Defensive Midfielder,86,42,62,79,80,82,75
+Joao Cancelo,50,Manchester City,Portugal,Right Back,86,85,71,83,84,80,72
+Mats Hummels,51,Borussia Dortmund,Germany,Center Back,86,56,59,77,73,89,77
+Fabinho,52,Liverpool,Brazil,Central Defensive Midfielder,86,67,69,78,78,85,83
+Rihad Mahrez,53,Manchester City,Algeria,Right Winger,86,81,79,81,90,38,60
+Gerard Moreno,54,Villareal CF,Spain,Striker,86,79,86,77,84,46,73
+Raphael Varane ,55,Manchester United,France,Center Back,86,82,49,64,65,87,82
+Milan Skiniar,56,Inter Milan,Slovakia,Center Back,86,80,41,53,69,87,84
+Marcos Llorente,57,Atheltico Madrid,Spain,Central Midfielder,86,88,80,81,82,78,82
+Samir Handanovic,58,Inter Milan,Slovenia,Goal Keeper,86,81,81,65,87,47,92
+Aymeric Laporte,59,Manchester City,Spain,Center Back,86,63,50,72,69,86,80
+Koen Casteels,60,Wolfsburg,Belgium,Goal Keeper,86,85,83,80,87,45,84
+Parejo,61,Villareal CF,Spain,Central Midfielder,86,50,83,90,81,71,69
+Kalidou Koulibaly,62,SS Napoli,Senegal,Center Back,86,81,28,51,65,87,85
+Giorgio Chiellini,63,Juventus,Italy,Center Back,86,68,46,60,59,89,85
+Rodri,64,Manchester City,Spain,Central Defensive Midfielder,86,61,70,77,78,82,82
+Jordi Alaba,65,FC Barcelona,Spain,Left Back,86,86,69,81,83,77,71
+Thiago,66,Liverpool,Spain,Central Midfielder,86,63,72,86,90,70,66
+Jamie Vardy,67,Leicester City,England,Striker,86,85,84,70,80,52,73
+Bernando Silva,68,Manchester City,Portugal,Central Attacking Midfielder,86,80,76,83,91,54,67
+Kingsley Coman,69,Bayern Munich,France,Left Midfielder,86,93,76,79,88,30,60
+Jorginho,70,Chelsea,Italy,Central Midfielder,85,55,67,86,81,73,73
+Leonardo Bonucci,71,Juventus,Italy,Center Back,85,64,58,69,72,86,80
+Antoine Greizmann,72,Athletico Madrid,France,Striker,85,80,84,84,87,52,72
+Serge Gnarby,73,Bayern Munich,Germany,Right Midfielder,85,83,84,79,86,43,69
+Thiago Silva,74,Chelsea,Brazil,Center Back,85,53,54,72,72,86,78
+Memphis Depay,75,FC Barcelona,Netherlands,Center Forward,85,82,83,82,84,30,79
+Ilkay Gundogan,76,Manchester City,Germany,Central Midfielder,85,65,80,85,86,73,72
+Eden Hazard,77,Real Madrid,Belgium,Left Winger,85,84,80,82,88,35,63
+Stefan Vrij,78,Inter Milan,Netherlands,Center Back,85,72,41,64,70,87,79
+David Silva,79,Real Sociedad,Spain,Central Attacking Midfielder,85,63,74,87,87,52,53
+Acharaf Hakimi,80,PSG,Morocco,Right Back,85,95,71,78,83,76,78
+Marcus Reus,81,Borussia Dortmund,Germany,Central Attacking Midfielder,85,73,84,84,85,47,63
+Wilfred Ndidi,82,Leicester City,Nigeria,Central Defensive Midfielder,85,67,62,69,74,87,83
+Lantaro Martinez,83,Inter Milan,Argentina,Striker,85,84,81,72,85,48,84
+Oyarzabal,84,Real Sociedad,Spain,Left Winger,85,82,82,81,84,41,63
+Kasper Schmeichel,85,Leicester City,Denmark,Goal Keeper,85,84,78,80,90,47,83
+Sergej Milinkovic Savic,86,Lazio,Serbia,Central Midfielder,85,68,59,80,81,79,86
+Peter Gulasci,87,RB Leipzig,Hungary,Goal Keeper,85,85,84,76,86,43,82
+Marcus Rashford,88,Manchester United,England,Left Midfielder,85,90,84,79,84,43,77
+Kyle Walker,89,Manchester City,England,Right Back,85,92,63,76,78,80,82
+Koke,90,Atheltico Madrid,Spain,Central Midfielder,85,70,75,85,81,79,80
+Matthijs Deligt,91,Juventus,Netherlands,Centre Back,85,73,59,60,69,84,87
+Alejandro Gomez,92,Sevilla,Argentina,Central Attacking Midfielder,85,87,78,84,87,39,55
+Yann Sommer,93,Borussia Monchengladbach,Switzerland,Goal Keeper,85,79,84,81,86,50,86
+Edinson Cavani,94,Manchester United,Uruguay,Striker,85,66,86,70,76,51,79
+Pierre-Emerick Aubameyang,95,Arsenal,Gabon,Striker,85,89,85,75,80,35,69
+Carvajal,96,Real Madrid,Spain,Right Back,85,80,54,78,80,81,80
+Roberto Firmino,97,Liverpool,Brazil,Center Forward,85,77,78,79,89,59,78
+David Alaba,98,Real Madrid,Austria,Centre Back,84,77,70,81,80,83,76
+Nicolo Barella,99,Inter Milan,Italy,Central Midfielder,84,78,71,79,86,75,78
+Luke Shaw,100,Manchester United,England,Left Back,84,79,54,79,80,81,80
